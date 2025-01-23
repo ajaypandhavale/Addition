@@ -14,6 +14,8 @@ public class Addition {
 		int sum=a+b;
 		System.out.println(" addition of given numbers are "+sum);
 		
+		System.out.println(" HAVE FUN ");
+		
 
 	}
 
