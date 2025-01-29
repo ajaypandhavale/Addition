@@ -14,6 +14,7 @@ public class Additon {
 		sum=a+b;
 		
 		System.out.println("addition of given numbers is = "+sum);
+		System.out.println("pre created project merged to repo");
 	}
 
 }
